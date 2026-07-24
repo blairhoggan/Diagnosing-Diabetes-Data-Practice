@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 // load in data
-diabetes_data = pd.read_csv('diabetes.csv')
+diabetes_data = pd.read_csv('diabetes_data.csv')
 print(diabetes_data.head())
 
 // print number of columns
